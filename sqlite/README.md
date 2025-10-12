@@ -1,4 +1,6 @@
-# SQLite basics
+# SQLite Practice
+This is where I practice SQLite
+Majority of the queries are based on the sample [chinook database](https://www.sqlitetutorial.net/sqlite-sample-database/) available in the [official sqlite tutorial](https://www.sqlitetutorial.net/)
 
 ## open/create a database file
 
@@ -34,4 +36,5 @@
     - `.output <filename>` - `.output output.txt`
     - then run any select query - output will be saved to `output.txt`
     - type `.output` back to print results normally
-
+- run a query from a file
+    - `.read <filename-with-path>` - `.read D:\learn\sql\sqlite\query.txt`
