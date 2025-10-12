@@ -1,7 +1,7 @@
 # SQLite Practice
 This is where I practice SQLite
 
-Majority of the queries are based on the sample [chinook database](https://www.sqlitetutorial.net/sqlite-sample-database/) available in the [official sqlite tutorial](https://www.sqlitetutorial.net/)
+Majority of the queries are based on the sample [chinook database](https://www.sqlitetutorial.net/sqlite-sample-database/) available in the [sqlite tutorial](https://www.sqlitetutorial.net/) website
 
 ## open/create a database file
 
