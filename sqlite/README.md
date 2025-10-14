@@ -4,7 +4,6 @@ This is where I practice SQLite
 Majority of the queries are based on the sample [chinook database](https://www.sqlitetutorial.net/sqlite-sample-database/) available in the [sqlite tutorial](https://www.sqlitetutorial.net/) website
 
 ## open/create a database file
-
 - open a db file - `sqlite3 <db-filename>`
     - `sqlite3 main.db`
     - defaults to a in memory database if file is not specified
@@ -39,3 +38,20 @@ Majority of the queries are based on the sample [chinook database](https://www.s
     - type `.output` back to print results normally
 - run a query from a file
     - `.read <filename-with-path>` - `.read D:\learn\sql\sqlite\query.txt`
+
+# Sqls
+
+## SQL Query Examples
+
+1. **SELECT** - [select.sql](queries/select.sql)
+2. **ORDER BY** - [order-by.sql](queries/order-by.sql)
+3. **SELECT DISTINCT** - [distinct.sql](queries/distinct.sql)
+4. **WHERE** - [where.sql](queries/where.sql)
+5. **AND OPERATOR** - [and.sql](queries/and.sql)
+6. **OR OPERATOR** - [or.sql](queries/or.sql)
+7. **LIMIT** - [limit.sql](queries/limit.sql)
+8. **BETWEEN** - [between.sql](queries/between.sql)
+9. **IN** - [in.sql](queries/in.sql)
+10. **LIKE** - [like.sql](queries/like.sql)
+12. **GLOB** - [glob.sql](queries/glob.sql)
+11. **IS NULL** - <!-- No file provided -->
