@@ -63,3 +63,5 @@ Majority of the queries are based on the sample [chinook database](https://www.s
     - **CROSS JOIN** - [cross-join.sql](queries/join/cross-join.sql)
     - **SELF JOIN** - [self-join.sql](queries/join/self-join.sql)
     - **JOIN (general)** - [join.sql](queries/join/join.sql)
+14. **GROUP BY** - [group-by.sql](queries/group-by.sql)
+14. **HAVING** - [having.sql](queries/having.sql)
