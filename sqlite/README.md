@@ -65,3 +65,6 @@ Majority of the queries are based on the sample [chinook database](https://www.s
     - **JOIN (general)** - [join.sql](queries/join/join.sql)
 14. **GROUP BY** - [group-by.sql](queries/group-by.sql)
 14. **HAVING** - [having.sql](queries/having.sql)
+14. **UNION** - [union.sql](queries/union.sql)
+14. **EXCEPT** - [except.sql](queries/except.sql)
+14. **INTERSECT** - [intersect.sql](queries/intersect.sql)
